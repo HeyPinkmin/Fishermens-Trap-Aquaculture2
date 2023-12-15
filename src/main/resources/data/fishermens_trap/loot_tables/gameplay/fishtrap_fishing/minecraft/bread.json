@@ -24,6 +24,16 @@
           "type": "minecraft:item",
           "weight": 13,
           "name": "minecraft:pufferfish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "name": "aquaculture:tuna"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "name": "aquaculture:red_grouper"
         }
       ]
     }
